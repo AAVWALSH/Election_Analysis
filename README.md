@@ -5,7 +5,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 1. The total number of votes cast
 2. A complete list of candidates who received votes
 3. The percentage of votes each candidate won
-4. The total numer of votes each candidate won
+4. The total number of votes each candidate won
 5. The winner of the election by popular vote.
 
 The election commision requested some additional data to complete the audit:
@@ -40,6 +40,11 @@ The analysis of the election shows that:
     - Arapahoe had 6.7% of the vote with 24,801 total votes
     
   Denver had the highest voter turnout of the three counties. 
+  
+  The final Terminal readout looked like this:
+  
+  ![Terminal_readout](https://user-images.githubusercontent.com/100727593/160220604-cec02979-31a3-4e47-91cf-689279283e5d.png)
+
   
    ## Challenge Summary
    The election committee could use this script in another election as long as the provided csv files was formatted in a similar structure and simple adjustments could be made for where to pull the data from (instead of county in column [1] and candidate in column [2]. With edits to where the file paths are.  
