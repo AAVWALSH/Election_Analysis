@@ -9,9 +9,10 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 5. The winner of the election by popular vote.
 
 The election commision requested some additional data to complete the audit:
-    6. The voter turnout for each county
-    7. The percentage of votes from each county out of the total count
-    8. The county with the highest turnout
+
+6. The voter turnout for each county
+7. The percentage of votes from each county out of the total count
+8. The county with the highest turnout
 
 
 ## Resources
@@ -20,27 +21,31 @@ The election commision requested some additional data to complete the audit:
 
 ## Summary
 The analysis of the election shows that:
--There were 369,711 votes cast in the election.
--The candidates were:
+
+There were 369,711 votes cast in the election.
+
+#### The candidates were:
   - Charles Casper Stockham
   - Diana DeGette
   - Raymon Anthony Doane
-- The candidate results were:
+
+#### The candidate results were:
    - Charles Casper Stockham received 23.0% of the votes with 85,213 votes.
    - Diana DeGette received 73.8% of the votes with 272,892 votes.
    - Raymon Anthony Doane received 3.1% of the votes with 11,606 votes.
 
--The winner of the election was:
+### The winner of the election was:
   Diana DeGette who received 73.8% of the votes and 272,892 votes.
   
   ## Challenge Overview
  
-  The additional data provides more depth to the analysis.
-    - Jefferson had 10.5% of the vote with 38,855 total votes
-    - Denver had 82.8% of the vote with 306,055 total votes
-    - Arapahoe had 6.7% of the vote with 24,801 total votes
+#### The additional data provides more depth to the analysis.
+
+ * Jefferson had 10.5% of the vote with 38,855 total votes
+ * Denver had 82.8% of the vote with 306,055 total votes
+ * Arapahoe had 6.7% of the vote with 24,801 total votes
     
-  Denver had the highest voter turnout of the three counties. 
+Denver had the highest voter turnout of the three counties. 
   
   The final Terminal readout looked like this:
   
