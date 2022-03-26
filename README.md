@@ -29,6 +29,7 @@ The analysis of the election shows that:
    - Charles Casper Stockham received 23.0% of the votes with 85,213 votes.
    - Diana DeGette received 73.8% of the votes with 272,892 votes.
    - Raymon Anthony Doane received 3.1% of the votes with 11,606 votes.
+
 -The winner of the election was:
   Diana DeGette who received 73.8% of the votes and 272,892 votes.
   
@@ -48,4 +49,5 @@ The analysis of the election shows that:
   
    ## Challenge Summary
    The election committee could use this script in another election as long as the provided csv files was formatted in a similar structure and simple adjustments could be made for where to pull the data from (instead of county in column [1] and candidate in column [2]. With edits to where the file paths are.  
+   
    This script could be modified to provide a further breakdown of percentage of votes for each candidate within each county. If more data was provided (postal code) this could provide detailed analysis. Both could assist, along with more data on demographics, in finding voting patterns among age ranges and location. 
